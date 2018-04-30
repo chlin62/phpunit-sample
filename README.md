@@ -46,4 +46,6 @@ DOCUMENTATION
 
 - [Getting Started with PHPUnit 5](https://phpunit.de/getting-started/phpunit-5.html)
 
-- [Appendix C. The XML Configuration File](https://phpunit.de/manual/6.5/en/appendixes.configuration.html)
+- [PHPUnit APPENDIX - 3. The XML Configuration File](https://phpunit.readthedocs.io/en/7.1/configuration.html)
+
+- [PHPUnit APPENDIX - 1. Assertions](https://phpunit.readthedocs.io/en/7.1/assertions.html#assertstringendswith)
