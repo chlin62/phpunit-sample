@@ -48,4 +48,4 @@ DOCUMENTATION
 
 - [PHPUnit APPENDIX - 3. The XML Configuration File](https://phpunit.readthedocs.io/en/7.1/configuration.html)
 
-- [PHPUnit APPENDIX - 1. Assertions](https://phpunit.readthedocs.io/en/7.1/assertions.html#assertstringendswith)
+- [PHPUnit APPENDIX - 1. Assertions](https://phpunit.readthedocs.io/en/7.1/assertions.html)
